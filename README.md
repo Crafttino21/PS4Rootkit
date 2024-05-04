@@ -21,7 +21,7 @@ This Tool use his PoC Exploit. GoldenHEN Payload will be added if they Release t
 This Tool is ONLY for Ubuntu-based Linux Distros and NOT FOR WINDOWS!!
 
 **If you need help**
-COntact me Here: [Twitter](https://twitter.com/WeepingTheReal)
+Contact me Here: [Twitter](https://twitter.com/WeepingTheReal)
 
 ## How to install
 **Prerequisites**  
@@ -36,7 +36,8 @@ COntact me Here: [Twitter](https://twitter.com/WeepingTheReal)
 * `cd PS4Rootkit`
 * `pip3 install -r requirments.txt`
 * `sudo python3 ps4rootkit.py`.
-  
+
+
   
  
 
