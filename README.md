@@ -1,9 +1,10 @@
 # PS4Rootkit
-a "easy-to-use" automation script for the PPPwn Exploit by TheFlow.
+a "easy-to-use" automation script for the PPPwn Exploit by TheFlow and LightningMods.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X7MF230)
 
 Original PoC Payload by TheFlow: [PPPwn PoC](https://github.com/TheOfficialFloW/PPPwn)
+LightningMods Loader for PPPwn: [LM Loader](https://github.com/LightningMods/PPPwn)
 
 
 **Features**
