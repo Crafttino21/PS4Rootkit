@@ -14,6 +14,7 @@ banner = '''
     PS4Rootkit by Crafttino21/WeepingAngel | Exploit by TheFlow                                                        
     » Easy to Use Toolkit for the PPPwn Exploit for PS4 «
         Supported Versions: 9.00-11.00 (More on test!)
+                THIS TOOL IS FOR LINUX ONLY!!
 
 '''
 menu = '''
