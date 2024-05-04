@@ -20,6 +20,9 @@ This Tool use his PoC Exploit. GoldenHEN Payload will be added if they Release t
 **IMPORTANT**
 This Tool is ONLY for Ubuntu-based Linux Distros and NOT FOR WINDOWS!!
 
+**If you need help**
+COntact me Here: [Twitter](https://twitter.com/WeepingTheReal)
+
 ## How to install
 **Prerequisites**  
 * [Python](https://www.python.org/downloads) 3.9/3.10/3.11
