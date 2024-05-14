@@ -5,6 +5,14 @@ a "easy-to-use" automation script for the PPPwn Exploit by TheFlow and Lightning
 
 - Original PoC Payload by TheFlow: [PPPwn PoC](https://github.com/TheOfficialFloW/PPPwn).
 - LightningMods Loader for PPPwn: [LM Loader](https://github.com/LightningMods/PPPwn)
+- SiSTR0 Loader for GoldHEN: [SiSTR0 Loader](https://github.com/SiSTR0/PPPwn)
+- GoldHEN Payload by SiSTR0: [GoldHEN](https://github.com/GoldHEN/GoldHEN/tree/2.4b17)
+
+## READ BEFORE USING GOLDHEN PAYLOAD!
+**At First GoldHEN Released by SiSTR0 is FInally Supported by PS4ROOTKIT!**
+But there are Limitations!
+If you wanna use GoldHEN for 9.00 you need to Manually Update the Payload!
+PS4Rootkit **DOSN'T** do the part for the USB! You need to do that by your own!
 
 
 **Features**
@@ -36,6 +44,13 @@ Contact me Here: [Twitter](https://twitter.com/WeepingTheReal)
 * `cd PS4Rootkit`
 * `pip3 install -r requirments.txt`
 * `sudo python3 ps4rootkit.py`.
+
+## Thanks to:
+* SiSTR0 for GoldHEN, the stage2 Loader and for your part on the Modding Community
+* TheFlow for the PPPwn Exploit
+* MODDED WARFARE for the helpfull Videos
+* LightningMods for the LM Loader and the Really got Homebrews
+* All the other people that takes a part in the GoldHEN Development and Modding Community :)
 
 
   
