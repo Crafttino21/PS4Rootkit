@@ -35,7 +35,18 @@ Contact me Here: [Twitter](https://twitter.com/WeepingTheReal)
 **Prerequisites**  
 * [Python](https://www.python.org/downloads) 3.9/3.10/3.11
 * Pip (In PATH)
-  
+
+## IMPORTANT
+I'm often asked why the exploit doesn't work on some consoles. 
+I read that the models listed below are **possibly** not supported and the exploit doesn't work there:
+* `CUH-22xx (SAF-006 motherboard)`
+* `SAE-003 (1-982-481-11) Motherboard`
+
+In some tests the here listed Models and Motherboards reacted with kernel panics or
+the PPPwn exploit failes 100% of the Time at "cannot find corrupted object".
+There are maybe other models with the same problems of Incompatibility.
+
+Source: [Twitter](https://x.com/CelesteBlue123/status/1791768630285254774)
  
 ### Linux:
 * `sudo apt update`  
