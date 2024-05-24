@@ -47,6 +47,7 @@ the PPPwn exploit failes 100% of the Time at "cannot find corrupted object".
 There are maybe other models with the same problems of Incompatibility.
 
 Source: [Twitter](https://x.com/CelesteBlue123/status/1791768630285254774)
+
 Public User-based database of Compatible devices: [database](https://docs.google.com/spreadsheets/d/1C8zo9YIl6pCx1B_k_7tt_spTWc-Glfs3UdV4WcubPdc/edit?pli=1#gid=0)
  
 ### Linux:
